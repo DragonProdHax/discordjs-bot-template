@@ -1,8 +1,8 @@
 {
-  "name": "Bot name",
-  "status": "Bot status",
+  "name": "Playaway",
+  "status": "PLAYING",
   "statusType": "Bot status type, either 'PLAYING', 'LISTENING' or 'WATCHING'",
-  "token": "",
+  "token": "MTMyNTU3NjIxNzEzNDM3MDkwNg.GOpKor.yjQI-Vn2_YysW_IdK7CGCmJzZxq020h43ZD4z4",
   "intents": [
     "GUILDS",
     "GUILD_MESSAGES"
